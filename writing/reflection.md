@@ -25,6 +25,6 @@ TODO: Please provide a detailed response to this question.
 
 TODO: Please provide a detailed response to this question.
 
-## After completing this assignment, how can you apply new technical skills to the long-term software project?
+## After completing this assignment, how can you apply new technical skills to the long-term software project? Please comment on which of the programming styles covered in practicals you prefer to use.
 
 TODO: Please provide a detailed response to this question.
